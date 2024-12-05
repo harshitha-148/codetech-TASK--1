@@ -10,6 +10,8 @@ Duration: 4 weeks
 
 overview of project
 
+"C:\User harshitha \Pictures\task1.png"
+
 Project: Simple Calculator
 
 1. Basic Arithmetic Operations
